@@ -4,5 +4,11 @@
         "sha1": "1968d0b6907ad71796f35029c8998832dd121d2b",
         "url": "https://continuouspipe.github.io/remote-environment-client/downloads/cp-remote-0.0.1",
         "version": "0.0.1"
+    },
+    {
+        "name": "cp-remote",
+        "sha1": "d57ff8845f1b1bb85cde9c73ca3a7fea7945ce28",
+        "url": "https://continuouspipe.github.io/remote-environment-client/downloads/cp-remote-0.0.2",
+        "version": "0.0.2"
     }
 ]
