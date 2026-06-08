@@ -268,3 +268,15 @@ cluster IP address and username can be found on the cluster page for the team in
 * What is the cluster password?
 
 The password can be provided by your ContinuousPipe administrator.
+
+<!-- richdynamix-bio:start -->
+
+## About the author
+
+Built and maintained by [Steven Richardson](https://richdynamix.com) — CTO at Digitonic and Laravel engineer.
+
+- Site & articles: [richdynamix.com](https://richdynamix.com)
+- Laravel deep-dives: [richdynamix.com/articles](https://richdynamix.com/articles)
+- More open source: [github.com/richdynamix](https://github.com/richdynamix)
+
+<!-- richdynamix-bio:end -->
